@@ -1,0 +1,4 @@
+theme: jekyll-theme-architect
+title: "Proyecto revista digital"
+github:
+  is_project_page: false
