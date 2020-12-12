@@ -1,4 +1,6 @@
-# Cómo publicar notas
+# Cómo publicar
+
+<small>Actualización: **12/12/2020**.</small>
 
 ## Título
 

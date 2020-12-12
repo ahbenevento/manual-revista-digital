@@ -2,6 +2,8 @@
 
 Este archivo contiene todo el estándar soportado por el formato **Markdown**.
 
+<small>Actualización: **12/12/2020**.</small>
+
 ---
 
 Encabezados

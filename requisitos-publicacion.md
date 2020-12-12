@@ -1,5 +1,7 @@
 # Requisitos necesarios para publicar contenidos
 
+<small>Actualización: **12/12/2020**.</small>
+
 > Si un contenido no supera estos puntos de validación no será publicado e incluso puede que ni siquiera sea guardado por el Bot.
 
 1.  Todo contenido debe enviarse al Bot en un **archivo con extensión .md**.
