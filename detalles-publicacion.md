@@ -1,7 +1,5 @@
 # Cómo publicar
 
-<small>Actualización: **12/12/2020**.</small>
-
 ## Título
 
 Cada publicación deberá tener al menos un **título principal**, definido por un caracter numeral (#).
@@ -207,3 +205,7 @@ tipo opinion
 estado oculto
 ===
 ```
+
+---
+
+<small>Actualización: **12/12/2020**.</small>

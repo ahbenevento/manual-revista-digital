@@ -2,8 +2,6 @@
 
 Este archivo contiene todo el estándar soportado por el formato **Markdown**.
 
-<small>Actualización: **12/12/2020**.</small>
-
 ---
 
 Encabezados
@@ -270,3 +268,7 @@ Acá tiene una única línea para el párrafo.
 
 Estas dos líneas comprenderán el mismo párrafo.
 Ya que no cuentan con una línea en blanco que las separe.
+
+---
+
+<small>Actualización: **12/12/2020**.</small>
