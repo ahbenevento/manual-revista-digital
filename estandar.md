@@ -185,7 +185,7 @@ El caracter dos puntos (:) es utilizado para definir la alineación de las colum
 | Producto 2    | ejemplo       | $100  |
 | Producto 3    | otro ejemplo  | $1000 |
 
-Los encabezados deben estar separados por una línea con al menos 3 guiones por celda. No es necesario alinear correctamente los caracteres "tubos" (|). Estos caracteres además son opcionales en los extremos.
+Los encabezados deben estar separados por una línea con al menos 3 guiones por celda. No es necesario alinear correctamente los caracteres "tubos" ( | ). Estos caracteres además son opcionales en los extremos.
 
 Productos | Detalles | Importe
 ---|:---:| ---:
@@ -200,7 +200,7 @@ El caracter dos puntos (:) es utilizado para definir la alineación de las colum
 | Producto 2    | ejemplo       | $100  |
 | Producto 3    | otro ejemplo  | $1000 |
 
-Los encabezados deben estar separados por una línea con al menos 3 guiones por celda. No es necesario alinear correctamente los caracteres "tubos" (|). Estos caracteres además son opcionales en los extremos.
+Los encabezados deben estar separados por una línea con al menos 3 guiones por celda. No es necesario alinear correctamente los caracteres "tubos" ( | ). Estos caracteres además son opcionales en los extremos.
 
 Productos | Detalles | Importe
 ---|:---:| ---:
